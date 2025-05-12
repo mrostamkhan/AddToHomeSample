@@ -1,0 +1,35 @@
+{
+    "name": "وب سایت من",
+    "short_name": "mysite",
+    "start_url": "https://mysite.com",
+    "id": "mysite",
+    "theme_color": "#346eb6",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://mysite.com/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://mysite.com/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "وب سایت من",
+            "short_name": "mysite",
+            "url": "https://mysite.com",
+            "icons": [
+                {
+                    "src": "https://mysite.com/icon-96x96.png",
+                    "type": "image/png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ]
+}
